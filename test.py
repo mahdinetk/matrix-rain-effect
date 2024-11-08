@@ -3,7 +3,6 @@ import time
 from random import randint
 
 
-# initializing window
 stdscr = curses.initscr()
 curses.start_color()
 curses.noecho()
