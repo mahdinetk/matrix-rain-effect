@@ -37,7 +37,7 @@ A Python script that simulates the classic "Matrix rain" effect in the terminal.
 2. Clone the repository and run the script as above:
    
 ```bash
-   git clone https://github.com/yourusername/matrix-rain-effect.git
+   git clone https://github.com/mahdinetk/matrix-rain-effect.git
    cd matrix-rain-effect
    python matrix-rain.py
 ```  
